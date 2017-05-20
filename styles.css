@@ -1,0 +1,134 @@
+body {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background: linear-gradient(#f4f4f4, white);
+}
+
+
+
+h1 {
+    margin-left: 10px
+}
+
+h2 {
+    margin-left: 450px;
+}
+
+h1, h2 {
+    display: inline-block;
+
+}
+
+#main {
+    background: radial-gradient(#6f5964, #1d0c11);
+    padding: 10px;
+}
+
+#top-main {
+    margin: 20px;
+    display: inline-block;
+}
+
+#top-main img {
+    height: 280px;
+    border: 5px grey solid;
+    display: inline-block;
+}
+
+#aboutsection {
+    width: 450px;
+    height: 280px;
+    display: inline-block;
+    margin-left: 25px;
+    background: linear-gradient(to right, white , #dbcdda);
+}
+
+#aboutsection h3 {
+    background: linear-gradient(#b7b7bb,#878593, #b7b7bb);
+    color: white;
+    margin: 0px;
+}
+
+#aboutsection p {
+    padding: 5px;
+}
+
+.vert-align {
+    vertical-align: middle;
+}
+
+.portfolio-item h3{
+    font-size: 15pt;
+    height: 26px;
+
+}
+
+.portfolio-item {
+    width: 300px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    height: 600px;
+    margin: 5px;
+    position: relative;
+    background: linear-gradient(to right, white , #dbcdda);
+}
+
+.portfolioimg {
+    width: 280px;
+}
+
+.icons {
+    width: 40px;
+    margin: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+.technologiescontainer {
+    bottom: 10px;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(to right, white , #dbcdda);
+}
+
+.sectiontitle {
+    margin: 0px;
+    padding: 9px 8px 9px 0px;
+    background: linear-gradient(#b7b7bb,#878593, #b7b7bb);
+    color: white;
+    text-indent: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.socialicons {
+    width: 20px;
+}
+
+#socialmedia {
+    text-align: center;
+
+}
+
+ .portfoliobuttoncontainer {
+    text-align: center;
+}
+
+.button {
+    background-color: #1C411E;
+    border: 3px solid black;
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
